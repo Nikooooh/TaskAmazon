@@ -2,7 +2,7 @@
 
 This application fetches and displays product information from the Amazon search results page.
 
-1. Clone the repository
+1. Clone the repository:
    git clone https://github.com/Nikooooh/TaskAmazon.git
 
 2. Navigate to the project directory:
