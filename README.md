@@ -6,12 +6,12 @@ This application fetches and displays product information from the Amazon search
    git clone https://github.com/Nikooooh/TaskAmazon.git
 
 2. Navigate to the project directory:
-  Open the terminal and write "cd back-end"
+  Open the terminal and write: cd back-end
 
 3. Install dependencies:
-   npm install
-   npm install express axios cheerio
-   npm install cors
+   npm install </br> 
+   npm install express axios cheerio</br> 
+   npm install cors</br> 
 
 4. Start the server (back-end):
   node index.js
