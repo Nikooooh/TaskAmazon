@@ -8,7 +8,7 @@ This application fetches and displays product information from the Amazon search
 2. Navigate to the project directory:
   Open the terminal and write: cd back-end
 
-3. Install dependencies:
+3. Install dependencies:</br> 
    npm install </br> 
    npm install express axios cheerio</br> 
    npm install cors</br> 
